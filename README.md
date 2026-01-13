@@ -1,3 +1,7 @@
+# Skyler Pilkington
+# I am worried that I messed up setting things up with Ubuntu although after that section everything else worked as expected so I am unsure and I hope it is working fine.
+# Otherwise, this has been great and while I am concerned for how I will do this is making me excited to continue. I have always wondered about learning about anything to do with coding and even the little we have done so far has made me want to even more!
+
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/K4eslJRu)
 # :wave: The Basics of GitHub 
 
